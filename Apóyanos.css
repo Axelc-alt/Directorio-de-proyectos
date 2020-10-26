@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(236, 220, 75);
+}
+
+header {
+    width: 100%;
+    height: 100px;
+    z-index: 10;
+    margin-top: 0px;
+    padding: 0;
+}
+
+.contact--general0__img {
+    width: 100%;
+    height: 60%;
+    padding: 0;
+    margin: 0;
+    position: fixed;
+    top: 0px;
+}
+
+.contact--general0__links {
+    display: flex;
+    flex-direction: row-reverse;
+    padding: 15px;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+
+.contact--general0__links>a {
+    color: rgb(0, 0, 0);
+    font-weight: 1000;
+    text-decoration: none;
+    z-index: 300;
+    margin-right: 20px;
+}
+
+.contact--general0__links>a:hover {
+    text-decoration: underline;
+    color: yellowgreen;
+}
