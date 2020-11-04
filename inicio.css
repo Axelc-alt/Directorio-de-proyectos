@@ -27,16 +27,6 @@ h2 {
     letter-spacing: 3px;
 }
 
-.contact--general0__LogoAxel {
-    position: absolute;
-    width: 40px;
-    height: 40px;
-    left: 40px;
-    top: 0;
-    bottom: 0;
-    margin: auto;
-}
-
 .contact--general1__section {
     position: fixed;
 }
@@ -52,58 +42,41 @@ h2 {
 .Container--nav {
     /*contenedor Nav de la izquierda*/
     position: fixed;
-    z-index: 200;
+    display: flex;
+    z-index: 1000;
+    background-color: #a2d9ff;
+    border: #a2d9ff outset;
+    flex-direction: column;
     width: 10%;
     height: 100%;
-    top: 68px;
-    background-color: #a2d9ff;
-    border-right: #a2d9ff outset;
-    overflow: hidden;
+    top: 66px;
 }
 
-.Container--nav>a {
-    color: black;
+.Container--nav>a { 
+    margin-right: auto;
+    margin-left: auto;
+    border: rgb(174, 0, 255) 3px solid;
+    color: rgb(122, 10, 173);
+    padding: 5px;
+    border-radius: 20px;
+    text-decoration: none;
 }
-
 .a-1 {
-    position: absolute;
-    display: flex;
-    left: 0;
-    right: 0;
-    margin: auto;
-    width: 90px;
-    height: 30px;
-    top: 10px;
-    text-decoration: none;
-    text-align: center;
-    font-family: 'Open Sans Condensed', sans-serif;
-    border: 3px solid slateblue;
-    background-color: slateblue;
-    border-radius: 10px;
-}
-
-.a-2 {
-    position: absolute;
-    display: flex;
-    left: 0;
-    right: 0;
-    margin: auto;
-    width: 90px;
-    height: 30px;
-    top: 50px;
-    text-decoration: none;
-    text-align: center;
-    font-family: 'Open Sans Condensed', sans-serif;
-    border: 3px solid slateblue;
-    background-color: slateblue;
-    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .Container--nav>a:hover {
     /*Links de el nav de la izq*/
-    text-decoration: underline;
-    color: rgb(255, 255, 255);
-    transition: all .3s;
+    background-color: rgb(174, 0, 255);
+    color: #ffffff;
+}
+.logo-aside {
+    margin-top: 360px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75px;
+    height: 75px;
 }
 
 a::after {
