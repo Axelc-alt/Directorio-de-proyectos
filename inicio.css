@@ -28,9 +28,11 @@ h2 {
 
 .contact--general0__Titulo>h1 {
     font-size: 25px;
+    color: rgb(122, 10, 173);
     font-family: 'Roboto', sans-serif;
-    letter-spacing: 3px;
-    background: linear-gradient(to bottom, transparent, rgb(0,200,0));
+    letter-spacing: 5px;
+    padding-bottom: 3px;
+    border-bottom: rgb(0, 160, 35) 4px dashed  ;
 }
 
 .contact--general1__section {
@@ -55,7 +57,7 @@ h2 {
     flex-direction: column;
     width: 10%;
     height: 100%;
-    top: 66px;
+    top: 75px;
 }
 
 .Container--nav>a { 
