@@ -20,11 +20,17 @@ h2 {
     background-color: #a2d9ff;
     border: #a2d9ff outset;
 }
+.contact--general0__Titulo {
+    position: fixed;
+    display: flex;
+    justify-content: center;
+}
 
 .contact--general0__Titulo>h1 {
     font-size: 25px;
     font-family: 'Roboto', sans-serif;
     letter-spacing: 3px;
+    background: linear-gradient(to bottom, transparent, rgb(0,200,0));
 }
 
 .contact--general1__section {
