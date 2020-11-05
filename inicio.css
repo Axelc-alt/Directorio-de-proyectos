@@ -79,6 +79,23 @@ h2 {
     margin: 10px;
 }
 
+.contenedir-del-logo {
+    display: flex;
+    width: 100%;
+    margin-top: auto ;
+    background-color: #e3e7ec;
+    border-top: rgb(167, 197, 206) 1.5px solid;
+}
+.logoaxel {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px 5px;
+    width: 100px;
+    height: 100px;
+    text-decoration: none;
+}
+
 .Container--nav>a:hover {
     /*Links de el nav de la izq*/
     background-color: #ffbcac;
