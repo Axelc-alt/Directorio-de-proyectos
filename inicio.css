@@ -4,6 +4,9 @@
     box-sizing: border-box;
 }
 
+body {
+    background-color: rgb(247, 242, 242);
+}
 h2 {
     font-family: 'Bebas Neue', cursive;
     color: rgb(172, 20, 20);
@@ -16,19 +19,27 @@ h2 {
     z-index: 150;
     text-align: center;
     display: block;
-    width: 100%;
-    background-color: #a2d9ff;
-    border: #a2d9ff outset;
+    width: 90%;
+    right: 0;
+    background-color: #e3e7ec;
+    border-bottom: rgb(167, 197, 206) 1.5px solid;
 }
 .contact--general0__Titulo {
     position: fixed;
     display: flex;
     justify-content: center;
 }
+.a-1 {
+    width: 100px;
+}
+
+.a-2 {
+    width: 100px;
+}
 
 .contact--general0__Titulo>h1 {
     font-size: 25px;
-    color: rgb(122, 10, 173);
+    color: #ff7a59;
     font-family: 'Roboto', sans-serif;
     letter-spacing: 5px;
     padding-bottom: 3px;
@@ -39,52 +50,41 @@ h2 {
     position: fixed;
 }
 
-.contact--general1__section>img {
-    position: relative;
-    width: 100%;
-    height: 100%;
-    z-index: 10;
-}
-
-
 .Container--nav {
     /*contenedor Nav de la izquierda*/
     position: fixed;
     display: flex;
     z-index: 1000;
-    background-color: #a2d9ff;
-    border: #a2d9ff outset;
+    background-color: #e3e7ec;
+    border-right: rgb(167, 197, 206) 1.5px solid;
     flex-direction: column;
     width: 10%;
     height: 100%;
-    top: 75px;
 }
 
 .Container--nav>a { 
     margin-right: auto;
     margin-left: auto;
-    border: rgb(174, 0, 255) 3px solid;
-    color: rgb(122, 10, 173);
+    border:#ff7a59 3px solid;
+    background-color: #ff7a59;
+    color: rgb(255, 255, 255);
     padding: 5px;
-    border-radius: 20px;
+    border-radius: 5px;
     text-decoration: none;
+    font-family: sans-serif;
+    font-weight: 100;
+
 }
 .a-1 {
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin: 10px;
 }
 
 .Container--nav>a:hover {
     /*Links de el nav de la izq*/
-    background-color: rgb(174, 0, 255);
+    background-color: #ffbcac;
+    border:#ffbcac 3px solid;
+    transition: .5s;
     color: #ffffff;
-}
-.logo-aside {
-    margin-top: 360px;
-    margin-left: auto;
-    margin-right: auto;
-    width: 75px;
-    height: 75px;
 }
 
 a::after {
