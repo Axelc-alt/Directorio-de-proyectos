@@ -15,7 +15,7 @@ header {
     margin-top: 0px;
     padding: 0;
 }
-
+/*container general 0!!!!!!!!!1*/
 .contact--general0__img {
     width: 100%;
     height: 80%;
@@ -65,6 +65,8 @@ header {
     text-decoration: underline;
     color: rgb(0, 0, 0);
 }
+
+/*container general 1!!!!!!!!!!!1*/
 
 .contact--general1 {
     margin-top: 3em;
@@ -176,6 +178,8 @@ header {
     margin-bottom: 5em;
 }
 
+/*container general 2!!!!!!!!*/
+
 .contact--general2 {
     margin-left: 17em;
     margin-right: 17em;
@@ -241,6 +245,8 @@ header {
     text-indent: 6mm;
     margin-bottom: 6em;
 }
+
+/*container general 3!!!!!!!!!!!!*/
 
 .contact--general3 {
     margin-left: 17em;
@@ -314,6 +320,8 @@ header {
     text-indent: 6mm;
 }
 
+/*container general 4!!!!!1!!*/
+
 .contact--general4 {
     margin-left: 17em;
     margin-right: 17em;
@@ -375,4 +383,113 @@ header {
     text-align: left;
     line-height: 28px;
     margin-bottom: 18.68cm;
+}
+
+/*Container general 5!!!!!!!*/
+
+.container--general5 {
+    margin-left: 17em;
+    margin-right: 17em;
+    margin-bottom: 1em;
+    border: 2px solid rgb(255, 255, 255);
+    background-color: white;
+    position: relative;
+    z-index: 200;
+}
+
+.container--general5__h3-1 {
+    background-color: white;
+    text-align: center;
+    padding: 0em 8em;
+    margin-bottom: 5px;
+    margin-top: 6em;
+}
+
+.container--general5__h3-2 {
+    background-color: white;
+    text-align: center;
+    padding: 0em 8em;
+    margin-bottom: 15px;
+}
+
+.container--general5__p-1 {
+    font-size: 16px;
+    font-family: 'Times New Roman';
+    margin: 0 112px;
+    background-color: rgb(255, 255, 255);
+    text-align: left;
+    line-height: 28px;
+    text-indent: 6mm;
+}
+
+.container--general5__h3-3 {
+    background-color: white;
+    text-align: left;
+    padding: 0em 110px;
+    margin: 15px 0;
+}
+
+.container--general5__p-2 {
+    font-size: 16px;
+    font-family: 'Times New Roman';
+    margin: 0 112px;
+    background-color: rgb(255, 255, 255);
+    text-align: left;
+    line-height: 28px;
+    text-indent: 6mm;
+}
+
+.container--general5__h3-4 {
+    background-color: white;
+    text-align: left;
+    padding: 0em 110px;
+    margin: 15px 0;
+}
+
+.container--general5__p-3 {
+    font-size: 16px;
+    font-family: 'Times New Roman';
+    margin: 0 112px;
+    background-color: rgb(255, 255, 255);
+    text-align: left;
+    line-height: 28px;
+    text-indent: 6mm;
+}
+
+.container--general5__p-4 {
+    font-size: 16px;
+    font-family: 'Times New Roman';
+    margin: 0 112px;
+    background-color: rgb(255, 255, 255);
+    text-align: left;
+    line-height: 28px;
+    text-indent: 6mm;
+}
+
+.container--general5__h3-5 {
+    background-color: white;
+    text-align: left;
+    padding: 0em 110px;
+    margin: 15px 0;
+}
+
+.container--general5__p-5 {
+    font-size: 16px;
+    font-family: 'Times New Roman';
+    margin: 0 112px;
+    background-color: rgb(255, 255, 255);
+    text-align: left;
+    line-height: 28px;
+    text-indent: 6mm;
+}
+
+.container--general5__p-6 {
+    font-size: 16px;
+    font-family: 'Times New Roman';
+    margin: 0 112px;
+    background-color: rgb(255, 255, 255);
+    text-align: left;
+    line-height: 28px;
+    text-indent: 6mm;
+    margin-bottom: 6em;
 }
