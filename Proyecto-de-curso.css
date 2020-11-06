@@ -74,7 +74,7 @@ header {
     margin-right: 17em;
     margin-bottom: 1em;
     border: 2px solid rgb(255, 255, 255);
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     position: relative;
     z-index: 200;
 }
@@ -90,7 +90,6 @@ header {
 }
 
 .contact--general1__h2-1 {
-    background-color: white;
     text-align: center;
     padding: 0em 7em;
     font-size: 24px;
@@ -98,7 +97,6 @@ header {
 }
 
 .contact--general1__h2-2 {
-    background-color: white;
     text-align: center;
     padding: 0em 7em;
     font-size: 24px;
@@ -106,14 +104,12 @@ header {
 }
 
 .contact--general1__h2-3 {
-    background-color: white;
     text-align: center;
     padding: 15px 8em;
     font-size: 24px;
 }
 
 .contact--general1__h1 {
-    background-color: white;
     text-align: center;
     padding: 0em 3em;
     font-size: 16px;
@@ -133,7 +129,6 @@ header {
 }
 
 .contact--general1__p1 {
-    background-color: white;
     text-align: center;
     padding-right: 8em;
     padding-left: 8em;
@@ -141,7 +136,6 @@ header {
 }
 
 .contact--general1__h3-1 {
-    background-color: white;
     text-align: center;
     padding: 0em 8em;
     margin-top: 6em;
@@ -149,7 +143,6 @@ header {
 }
 
 .contact--general1__p-2 {
-    background-color: white;
     text-align: center;
     padding: 0em 8em;
     margin-top: 0;
@@ -157,14 +150,12 @@ header {
 }
 
 .contact--general1__h3-2 {
-    background-color: white;
     text-align: center;
     padding: 0em 8em;
     margin-bottom: 5px;
 }
 
 .contact--general1__p-3 {
-    background-color: white;
     text-align: center;
     padding: 0em 8em;
     margin-top: 0;
@@ -172,7 +163,6 @@ header {
 }
 
 .contact--general1__h3-3 {
-    background-color: white;
     text-align: center;
     padding: 0em 8em;
     margin-bottom: 5em;
@@ -185,13 +175,12 @@ header {
     margin-right: 17em;
     margin-bottom: 1em;
     border: 2px solid rgb(255, 255, 255);
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     position: relative;
     z-index: 200;
 }
 
 .contact--general2__h3-1 {
-    background-color: white;
     text-align: center;
     padding: 0em 8em;
     margin-bottom: 5px;
@@ -199,7 +188,6 @@ header {
 }
 
 .contact--general2__h3-2 {
-    background-color: white;
     text-align: center;
     padding: 0em 8em;
     margin-bottom: 15px;
@@ -209,7 +197,6 @@ header {
     font-size: 16px;
     font-family: 'Times New Roman';
     margin: 0 112px;
-    background-color: rgb(255, 255, 255);
     text-align: left;
     line-height: 28px;
     text-indent: 6mm;
@@ -222,14 +209,12 @@ header {
     margin-left: 112px;
     margin-top: 12px;
     margin-bottom: 0;
-    background-color: rgb(255, 255, 255);
     text-align: left;
     line-height: 28px;
     text-indent: 6mm;
 }
 
 .contact--general2__h3-3 {
-    background-color: white;
     text-align: center;
     padding: 0em 8em;
     margin: 15px 0;
@@ -239,7 +224,6 @@ header {
     font-size: 16px;
     font-family: 'Times New Roman';
     margin: 0 112px;
-    background-color: rgb(255, 255, 255);
     text-align: left;
     line-height: 28px;
     text-indent: 6mm;
@@ -253,13 +237,12 @@ header {
     margin-right: 17em;
     margin-bottom: 1em;
     border: 2px solid rgb(255, 255, 255);
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     position: relative;
     z-index: 200;
 }
 
 .contact--general3__h3-1 {
-    background-color: white;
     text-align: center;
     padding: 0em 8em;
     margin-bottom: 5px;
@@ -271,7 +254,6 @@ header {
     font-family: 'Times New Roman';
     margin: 0 112px;
     margin-top: 14px;
-    background-color: rgb(255, 255, 255);
     text-align: left;
     line-height: 28px;
     text-indent: 6mm;
@@ -284,14 +266,12 @@ header {
     margin-left: 112px;
     margin-top: 12px;
     margin-bottom: 0;
-    background-color: rgb(255, 255, 255);
     text-align: left;
     line-height: 28px;
     text-indent: 6mm;
 }
 
 .contact--general3__h3-2 {
-    background-color: white;
     text-align: center;
     padding: 0em 8em;
     margin: 15px 0;
@@ -301,7 +281,6 @@ header {
     font-size: 16px;
     font-family: 'Times New Roman';
     margin: 0 112px;
-    background-color: rgb(255, 255, 255);
     text-align: left;
     line-height: 28px;
     text-indent: 6mm;
@@ -314,7 +293,6 @@ header {
     margin-left: 112px;
     margin-top: 12px;
     margin-bottom: 6em;
-    background-color: rgb(255, 255, 255);
     text-align: left;
     line-height: 28px;
     text-indent: 6mm;
@@ -327,13 +305,12 @@ header {
     margin-right: 17em;
     margin-bottom: 1em;
     border: 2px solid rgb(255, 255, 255);
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     position: relative;
     z-index: 200;
 }
 
 .contact--general4__h3-1 {
-    background-color: white;
     text-align: center;
     padding: 0em 8em;
     margin-bottom: 15px;
@@ -341,7 +318,6 @@ header {
 }
 
 .contact--general4__h3-2 {
-    background-color: white;
     text-align: left;
     padding: 0em 110px;
     margin: 15px 0;
@@ -351,14 +327,12 @@ header {
     font-size: 16px;
     font-family: 'Times New Roman';
     margin: 0 112px;
-    background-color: rgb(255, 255, 255);
     text-align: left;
     line-height: 28px;
     text-indent: 6mm;
 }
 
 .contact--general4__h3-3 {
-    background-color: white;
     text-align: left;
     padding: 0em 110px;
     margin: 15px 0;
@@ -369,7 +343,6 @@ header {
     font-family: 'Times New Roman';
     margin-right: 112px;
     margin-left: 134px;
-    background-color: rgb(255, 255, 255);
     text-align: left;
     line-height: 28px;
 }
@@ -379,7 +352,6 @@ header {
     font-family: 'Times New Roman';
     margin: 0 112px;
     margin-left: 134px;
-    background-color: rgb(255, 255, 255);
     text-align: left;
     line-height: 28px;
     margin-bottom: 18.68cm;
@@ -392,13 +364,12 @@ header {
     margin-right: 17em;
     margin-bottom: 1em;
     border: 2px solid rgb(255, 255, 255);
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     position: relative;
     z-index: 200;
 }
 
 .container--general5__h3-1 {
-    background-color: white;
     text-align: center;
     padding: 0em 8em;
     margin-bottom: 5px;
@@ -406,7 +377,6 @@ header {
 }
 
 .container--general5__h3-2 {
-    background-color: white;
     text-align: center;
     padding: 0em 8em;
     margin-bottom: 15px;
@@ -416,14 +386,12 @@ header {
     font-size: 16px;
     font-family: 'Times New Roman';
     margin: 0 112px;
-    background-color: rgb(255, 255, 255);
     text-align: left;
     line-height: 28px;
     text-indent: 6mm;
 }
 
 .container--general5__h3-3 {
-    background-color: white;
     text-align: left;
     padding: 0em 110px;
     margin: 15px 0;
@@ -433,14 +401,12 @@ header {
     font-size: 16px;
     font-family: 'Times New Roman';
     margin: 0 112px;
-    background-color: rgb(255, 255, 255);
     text-align: left;
     line-height: 28px;
     text-indent: 6mm;
 }
 
 .container--general5__h3-4 {
-    background-color: white;
     text-align: left;
     padding: 0em 110px;
     margin: 15px 0;
@@ -450,7 +416,6 @@ header {
     font-size: 16px;
     font-family: 'Times New Roman';
     margin: 0 112px;
-    background-color: rgb(255, 255, 255);
     text-align: left;
     line-height: 28px;
     text-indent: 6mm;
@@ -460,14 +425,12 @@ header {
     font-size: 16px;
     font-family: 'Times New Roman';
     margin: 0 112px;
-    background-color: rgb(255, 255, 255);
     text-align: left;
     line-height: 28px;
     text-indent: 6mm;
 }
 
 .container--general5__h3-5 {
-    background-color: white;
     text-align: left;
     padding: 0em 110px;
     margin: 15px 0;
@@ -477,7 +440,6 @@ header {
     font-size: 16px;
     font-family: 'Times New Roman';
     margin: 0 112px;
-    background-color: rgb(255, 255, 255);
     text-align: left;
     line-height: 28px;
     text-indent: 6mm;
@@ -487,9 +449,97 @@ header {
     font-size: 16px;
     font-family: 'Times New Roman';
     margin: 0 112px;
-    background-color: rgb(255, 255, 255);
     text-align: left;
     line-height: 28px;
     text-indent: 6mm;
+    margin-bottom: 6em;
+}
+
+/*container general 6!!!!!!!!!*/
+
+.container--general6 {
+    margin-left: 17em;
+    margin-right: 17em;
+    margin-bottom: 1em;
+    border: 2px solid rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    z-index: 200;
+}
+
+.container--general6__p-1 {
+    font-size: 16px;
+    font-family: 'Times New Roman';
+    margin: 0 112px;
+    text-align: left;
+    line-height: 28px;
+    text-indent: 6mm;
+    margin-top: 6em;
+}
+
+.container--general6__p-2 {
+    font-size: 16px;
+    font-family: 'Times New Roman';
+    margin: 0 112px;
+    text-align: left;
+    line-height: 28px;
+    text-indent: 6mm;
+}
+
+.container--general6__h3-1 {
+    text-align: left;
+    padding: 0em 110px;
+    margin: 15px 0;
+}
+
+.container--general6__p-3 {
+    font-size: 16px;
+    font-family: 'Times New Roman';
+    margin: 0 112px;
+    text-align: left;
+    line-height: 28px;
+    text-indent: 6mm;   
+}
+
+.container--general6__p-4 {
+    font-size: 16px;
+    font-family: 'Times New Roman';
+    margin: 0 112px;
+    text-align: left;
+    line-height: 28px;
+    text-indent: 6mm;   
+}
+
+.container--general6__p-5 {
+    font-size: 16px;
+    font-family: 'Times New Roman';
+    margin: 0 112px;
+    text-align: left;
+    line-height: 28px;
+    text-indent: 6mm;   
+}
+
+.container--general6__h3-2 {
+    text-align: left;
+    padding: 0em 110px;
+    margin: 15px 0;
+}
+
+.container--general6__p-6 {
+    font-size: 16px;
+    font-family: 'Times New Roman';
+    margin: 0 112px;
+    text-align: left;
+    line-height: 28px;
+    text-indent: 6mm;   
+}
+
+.container--general6__p-7 {
+    font-size: 16px;
+    font-family: 'Times New Roman';
+    margin: 0 112px;
+    text-align: left;
+    line-height: 28px;
+    text-indent: 6mm;   
     margin-bottom: 6em;
 }
