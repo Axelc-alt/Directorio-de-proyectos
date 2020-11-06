@@ -199,7 +199,7 @@ header {
     margin: 0 112px;
     text-align: left;
     line-height: 28px;
-    text-indent: 6mm;
+    text-indent: 12mm;
 }
 
 .contact--general2__p-2 {
@@ -211,7 +211,7 @@ header {
     margin-bottom: 0;
     text-align: left;
     line-height: 28px;
-    text-indent: 6mm;
+    text-indent: 12mm;
 }
 
 .contact--general2__h3-3 {
@@ -226,7 +226,7 @@ header {
     margin: 0 112px;
     text-align: left;
     line-height: 28px;
-    text-indent: 6mm;
+    text-indent: 12mm;
     margin-bottom: 6em;
 }
 
@@ -256,7 +256,7 @@ header {
     margin-top: 14px;
     text-align: left;
     line-height: 28px;
-    text-indent: 6mm;
+    text-indent: 12mm;
 }
 
 .contact--general3__p-2 {
@@ -268,7 +268,7 @@ header {
     margin-bottom: 0;
     text-align: left;
     line-height: 28px;
-    text-indent: 6mm;
+    text-indent: 12mm;
 }
 
 .contact--general3__h3-2 {
@@ -283,7 +283,7 @@ header {
     margin: 0 112px;
     text-align: left;
     line-height: 28px;
-    text-indent: 6mm;
+    text-indent: 12mm;
 }
 
 .contact--general3__p-4 {
@@ -295,7 +295,7 @@ header {
     margin-bottom: 6em;
     text-align: left;
     line-height: 28px;
-    text-indent: 6mm;
+    text-indent: 12mm;
 }
 
 /*container general 4!!!!!1!!*/
@@ -329,7 +329,7 @@ header {
     margin: 0 112px;
     text-align: left;
     line-height: 28px;
-    text-indent: 6mm;
+    text-indent: 12mm;
 }
 
 .contact--general4__h3-3 {
@@ -388,7 +388,7 @@ header {
     margin: 0 112px;
     text-align: left;
     line-height: 28px;
-    text-indent: 6mm;
+    text-indent: 12mm;
 }
 
 .container--general5__h3-3 {
@@ -403,7 +403,7 @@ header {
     margin: 0 112px;
     text-align: left;
     line-height: 28px;
-    text-indent: 6mm;
+    text-indent: 12mm;
 }
 
 .container--general5__h3-4 {
@@ -418,7 +418,7 @@ header {
     margin: 0 112px;
     text-align: left;
     line-height: 28px;
-    text-indent: 6mm;
+    text-indent: 12mm;
 }
 
 .container--general5__p-4 {
@@ -427,7 +427,7 @@ header {
     margin: 0 112px;
     text-align: left;
     line-height: 28px;
-    text-indent: 6mm;
+    text-indent: 12mm;
 }
 
 .container--general5__h3-5 {
@@ -442,7 +442,7 @@ header {
     margin: 0 112px;
     text-align: left;
     line-height: 28px;
-    text-indent: 6mm;
+    text-indent: 12mm;
 }
 
 .container--general5__p-6 {
@@ -451,7 +451,7 @@ header {
     margin: 0 112px;
     text-align: left;
     line-height: 28px;
-    text-indent: 6mm;
+    text-indent: 12mm;
     margin-bottom: 6em;
 }
 
@@ -473,7 +473,6 @@ header {
     margin: 0 112px;
     text-align: left;
     line-height: 28px;
-    text-indent: 6mm;
     margin-top: 6em;
 }
 
@@ -483,13 +482,13 @@ header {
     margin: 0 112px;
     text-align: left;
     line-height: 28px;
-    text-indent: 6mm;
+    text-indent: 12mm;
 }
 
 .container--general6__h3-1 {
-    text-align: left;
-    padding: 0em 110px;
-    margin: 15px 0;
+    text-align: center;
+    padding: 0em 8em;
+    margin-bottom: 15px;
 }
 
 .container--general6__p-3 {
@@ -498,7 +497,7 @@ header {
     margin: 0 112px;
     text-align: left;
     line-height: 28px;
-    text-indent: 6mm;   
+    text-indent: 12mm;   
 }
 
 .container--general6__p-4 {
@@ -507,7 +506,7 @@ header {
     margin: 0 112px;
     text-align: left;
     line-height: 28px;
-    text-indent: 6mm;   
+    text-indent: 12mm;   
 }
 
 .container--general6__p-5 {
@@ -516,13 +515,13 @@ header {
     margin: 0 112px;
     text-align: left;
     line-height: 28px;
-    text-indent: 6mm;   
+    text-indent: 12mm;   
 }
 
 .container--general6__h3-2 {
-    text-align: left;
-    padding: 0em 110px;
-    margin: 15px 0;
+    text-align: center;
+    padding: 0em 8em;
+    margin-bottom: 15px;
 }
 
 .container--general6__p-6 {
@@ -531,7 +530,7 @@ header {
     margin: 0 112px;
     text-align: left;
     line-height: 28px;
-    text-indent: 6mm;   
+    text-indent: 12mm;   
 }
 
 .container--general6__p-7 {
@@ -540,6 +539,80 @@ header {
     margin: 0 112px;
     text-align: left;
     line-height: 28px;
-    text-indent: 6mm;   
+    text-indent: 12mm;   
+    margin-bottom: 6em;
+}
+
+/*container 7!!!!!!!!!!*/
+
+.container--general7 {
+    margin-left: 17em;
+    margin-right: 17em;
+    margin-bottom: 1em;
+    border: 2px solid rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    z-index: 200;
+}
+
+.container--general7__p-1 {
+    font-size: 16px;
+    font-family: 'Times New Roman';
+    margin: 0 112px;
+    text-align: left;
+    line-height: 28px;
+    text-indent: 12mm;
+    margin-top: 6em;
+}
+
+.container--general7__p-2 {
+    font-size: 16px;
+    font-family: 'Times New Roman';
+    margin: 0 112px;
+    text-align: left;
+    line-height: 28px;
+    text-indent: 12mm;
+}
+
+.container--general7__p-3 {
+    font-size: 16px;
+    font-family: 'Times New Roman';
+    margin: 0 112px;
+    text-align: left;
+    line-height: 28px;
+    text-indent: 12mm;
+}
+
+.container--general7__h3-1 {
+    text-align: center;
+    padding: 0em 8em;
+    margin-bottom: 15px;
+}
+
+.container--general7__p-4 {
+    font-size: 16px;
+    font-family: 'Times New Roman';
+    margin: 0 112px;
+    text-align: left;
+    line-height: 28px;
+    text-indent: 12mm;   
+}
+
+.container--general7__p-5 {
+    font-size: 16px;
+    font-family: 'Times New Roman';
+    margin: 0 112px;
+    text-align: left;
+    line-height: 28px;
+    text-indent: 12mm;
+}
+
+.container--general7__p-6 {
+    font-size: 16px;
+    font-family: 'Times New Roman';
+    margin: 0 112px;
+    text-align: left;
+    line-height: 28px;
+    text-indent: 12mm;   
     margin-bottom: 6em;
 }
