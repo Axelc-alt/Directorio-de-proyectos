@@ -199,7 +199,7 @@ header {
     margin: 0 112px;
     text-align: left;
     line-height: 28px;
-    text-indent: 12mm;
+    text-indent: 6mm;
 }
 
 .contact--general2__p-2 {
@@ -208,10 +208,9 @@ header {
     margin-right: 112px;
     margin-left: 112px;
     margin-top: 12px;
-    margin-bottom: 0;
     text-align: left;
     line-height: 28px;
-    text-indent: 12mm;
+    text-indent: 6mm;
 }
 
 .contact--general2__h3-3 {
@@ -223,11 +222,10 @@ header {
 .contact--general2__p-3 {
     font-size: 16px;
     font-family: 'Times New Roman';
-    margin: 0 112px;
+    margin: 12px 112px 6em 112px;
     text-align: left;
     line-height: 28px;
-    text-indent: 12mm;
-    margin-bottom: 6em;
+    text-indent: 6mm;
 }
 
 /*container general 3!!!!!!!!!!!!*/
@@ -253,22 +251,20 @@ header {
     font-size: 16px;
     font-family: 'Times New Roman';
     margin: 0 112px;
-    margin-top: 14px;
+    margin-top: 12px;
     text-align: left;
     line-height: 28px;
-    text-indent: 12mm;
+    text-indent: 6mm;
 }
 
 .contact--general3__p-2 {
     font-size: 16px;
     font-family: 'Times New Roman';
-    margin-right: 112px;
-    margin-left: 112px;
+    margin: 0 112px;
     margin-top: 12px;
-    margin-bottom: 0;
     text-align: left;
     line-height: 28px;
-    text-indent: 12mm;
+    text-indent: 6mm;
 }
 
 .contact--general3__h3-2 {
@@ -283,19 +279,16 @@ header {
     margin: 0 112px;
     text-align: left;
     line-height: 28px;
-    text-indent: 12mm;
+    text-indent: 6mm;
 }
 
 .contact--general3__p-4 {
     font-size: 16px;
     font-family: 'Times New Roman';
-    margin-right: 112px;
-    margin-left: 112px;
-    margin-top: 12px;
-    margin-bottom: 6em;
+    margin: 12px 112px 6em 112px;
     text-align: left;
     line-height: 28px;
-    text-indent: 12mm;
+    text-indent: 6mm;
 }
 
 /*container general 4!!!!!1!!*/
@@ -329,7 +322,7 @@ header {
     margin: 0 112px;
     text-align: left;
     line-height: 28px;
-    text-indent: 12mm;
+    text-indent: 6mm;
 }
 
 .contact--general4__h3-3 {
@@ -388,7 +381,7 @@ header {
     margin: 0 112px;
     text-align: left;
     line-height: 28px;
-    text-indent: 12mm;
+    text-indent: 6mm;
 }
 
 .container--general5__h3-3 {
@@ -403,7 +396,7 @@ header {
     margin: 0 112px;
     text-align: left;
     line-height: 28px;
-    text-indent: 12mm;
+    text-indent: 6mm;
 }
 
 .container--general5__h3-4 {
@@ -416,9 +409,10 @@ header {
     font-size: 16px;
     font-family: 'Times New Roman';
     margin: 0 112px;
+    margin-bottom: 12px;
     text-align: left;
     line-height: 28px;
-    text-indent: 12mm;
+    text-indent: 6mm;
 }
 
 .container--general5__p-4 {
@@ -427,7 +421,7 @@ header {
     margin: 0 112px;
     text-align: left;
     line-height: 28px;
-    text-indent: 12mm;
+    text-indent: 6mm;
 }
 
 .container--general5__h3-5 {
@@ -440,19 +434,19 @@ header {
     font-size: 16px;
     font-family: 'Times New Roman';
     margin: 0 112px;
+    margin-bottom: 12px;
     text-align: left;
     line-height: 28px;
-    text-indent: 12mm;
+    text-indent: 6mm;
 }
 
 .container--general5__p-6 {
     font-size: 16px;
     font-family: 'Times New Roman';
-    margin: 0 112px;
+    margin: 12px 112px 6em 112px;
     text-align: left;
     line-height: 28px;
-    text-indent: 12mm;
-    margin-bottom: 6em;
+    text-indent: 6mm;
 }
 
 /*container general 6!!!!!!!!!*/
@@ -471,6 +465,7 @@ header {
     font-size: 16px;
     font-family: 'Times New Roman';
     margin: 0 112px;
+    margin-bottom: 12px;
     text-align: left;
     line-height: 28px;
     margin-top: 6em;
@@ -480,67 +475,71 @@ header {
     font-size: 16px;
     font-family: 'Times New Roman';
     margin: 0 112px;
+    margin-bottom: 12px;
     text-align: left;
     line-height: 28px;
-    text-indent: 12mm;
+    text-indent: 6mm;
 }
 
 .container--general6__h3-1 {
     text-align: center;
     padding: 0em 8em;
-    margin-bottom: 15px;
+    margin-bottom: 12px;
 }
 
 .container--general6__p-3 {
     font-size: 16px;
     font-family: 'Times New Roman';
     margin: 0 112px;
+    margin-bottom: 12px;
     text-align: left;
     line-height: 28px;
-    text-indent: 12mm;   
+    text-indent: 6mm;   
 }
 
 .container--general6__p-4 {
     font-size: 16px;
     font-family: 'Times New Roman';
     margin: 0 112px;
+    margin-bottom: 12px;
     text-align: left;
     line-height: 28px;
-    text-indent: 12mm;   
+    text-indent: 6mm;   
 }
 
 .container--general6__p-5 {
     font-size: 16px;
     font-family: 'Times New Roman';
     margin: 0 112px;
+    margin-bottom: 12px;
     text-align: left;
     line-height: 28px;
-    text-indent: 12mm;   
+    text-indent: 6mm;   
 }
 
 .container--general6__h3-2 {
     text-align: center;
     padding: 0em 8em;
-    margin-bottom: 15px;
+    margin-bottom: 12px;
 }
 
 .container--general6__p-6 {
     font-size: 16px;
     font-family: 'Times New Roman';
     margin: 0 112px;
+    margin-bottom: 12px;
     text-align: left;
     line-height: 28px;
-    text-indent: 12mm;   
+    text-indent: 6mm;   
 }
 
 .container--general6__p-7 {
     font-size: 16px;
     font-family: 'Times New Roman';
-    margin: 0 112px;
+    margin: 12px 112px 6em 112px;
     text-align: left;
     line-height: 28px;
-    text-indent: 12mm;   
-    margin-bottom: 6em;
+    text-indent: 6mm;
 }
 
 /*container 7!!!!!!!!!!*/
@@ -559,9 +558,10 @@ header {
     font-size: 16px;
     font-family: 'Times New Roman';
     margin: 0 112px;
+    margin-bottom: 12px;
     text-align: left;
     line-height: 28px;
-    text-indent: 12mm;
+    text-indent: 6mm;
     margin-top: 6em;
 }
 
@@ -569,50 +569,178 @@ header {
     font-size: 16px;
     font-family: 'Times New Roman';
     margin: 0 112px;
+    margin-bottom: 12px;
     text-align: left;
     line-height: 28px;
-    text-indent: 12mm;
+    text-indent: 6mm;
 }
 
 .container--general7__p-3 {
     font-size: 16px;
     font-family: 'Times New Roman';
     margin: 0 112px;
+    margin-bottom: 12px;
     text-align: left;
     line-height: 28px;
-    text-indent: 12mm;
-}
-
-.container--general7__h3-1 {
-    text-align: center;
-    padding: 0em 8em;
-    margin-bottom: 15px;
+    text-indent: 6mm;
 }
 
 .container--general7__p-4 {
     font-size: 16px;
     font-family: 'Times New Roman';
     margin: 0 112px;
+    margin-bottom: 12px;
     text-align: left;
     line-height: 28px;
-    text-indent: 12mm;   
+    text-indent: 6mm;
 }
 
 .container--general7__p-5 {
     font-size: 16px;
     font-family: 'Times New Roman';
     margin: 0 112px;
+    margin-bottom: 12px;
     text-align: left;
     line-height: 28px;
-    text-indent: 12mm;
+    text-indent: 6mm;
 }
 
 .container--general7__p-6 {
     font-size: 16px;
     font-family: 'Times New Roman';
-    margin: 0 112px;
+    /*Margin top 7cm*/
+    margin: 12px 112px 6.90cm 112px;
     text-align: left;
     line-height: 28px;
-    text-indent: 12mm;   
+    text-indent: 6mm;
+}
+
+/*container general 8-----*/
+
+.container--general8 {
+    margin-left: 17em;
+    margin-right: 17em;
+    margin-bottom: 1em;
+    border: 2px solid rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    z-index: 200;
+}
+
+.container--general8__h3-1 {
+    text-align: center;
+    padding: 0em 8em;
+    margin-bottom: 15px;
+    margin-top: 6em;
+}
+
+.container--general8__h3-2 {
+    text-align: left;
+    padding: 0em 110px;
+    margin: 15px 0;
+}
+
+.container--general8__p-1 {
+    font-size: 16px;
+    font-family: 'Times New Roman';
+    margin: 0 112px;
+    margin-bottom: 12px;
+    text-align: left;
+    line-height: 28px;
+    text-indent: 6mm;
+}
+
+.container--general8__img-1 {
+    position: relative;
+    width: 12.34cm;
+    height: 7.33cm;
+    display: block;
+    margin: auto;
+}
+
+.container--general8__h3-3 {
+    text-align: left;
+    padding: 0em 110px;
+    margin: 15px 0;
+}
+
+.container--general8__p-2 {
+    font-size: 16px;
+    font-family: 'Times New Roman';
+    margin: 0 112px;
+    margin-bottom: 12px;
+    text-align: left;
+    line-height: 28px;
+    text-indent: 6mm;
+}
+
+.container--general8__img-2 {
+    position: relative;
+    width: 12.34cm;
+    height: 7.33cm;
+    display: block;
+    margin: auto;
+    margin-bottom: 6em;
+}
+
+/*container general 9-----*/
+
+.container--general9 {
+    margin-left: 17em;
+    margin-right: 17em;
+    margin-bottom: 1em;
+    border: 2px solid rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    z-index: 200;
+}
+
+.container--general9__h3-1 {
+    text-align: left;
+    padding: 0em 110px;
+    margin: 15px 0;
+    margin-top: 6em;
+}
+
+.container--general9__h3-2 {
+    text-align: left;
+    padding: 0em 110px;
+    margin: 15px 0;
+}
+
+.container--general9__p-1 {
+    font-size: 16px;
+    font-family: 'Times New Roman';
+    margin: 0 112px;
+    margin-bottom: 12px;
+    text-align: left;
+    line-height: 28px;
+    text-indent: 6mm;
+}
+
+.container--general9__img-1 {
+    position: relative;
+    width: 12.34cm;
+    height: 7.33cm;
+    display: block;
+    margin: auto;
+}
+
+.container--general9__p-2 {
+    font-size: 16px;
+    font-family: 'Times New Roman';
+    margin: 0 112px;
+    margin-bottom: 12px;
+    text-align: left;
+    line-height: 28px;
+    text-indent: 6mm;
+}
+
+.container--general9__img-2 {
+    position: relative;
+    width: 12.34cm;
+    height: 7.33cm;
+    display: block;
+    margin: auto;
     margin-bottom: 6em;
 }
