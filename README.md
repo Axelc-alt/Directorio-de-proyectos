@@ -17,6 +17,14 @@
 
 
 ------------
+<!DOCTYPE html>
+<html lang="es">
+<head>
 
+</head>
+<body>
+    <img src="JS.png" alt="JavaScript - logo">
+</body>
+</html>
 > Tengo más proyectos, pero no tienen gran cosa y no los considero nada importante.
 
