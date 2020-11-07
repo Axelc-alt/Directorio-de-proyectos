@@ -2,7 +2,17 @@
 ###### A continuación muestro un poco de lo que hay en el proyecto (son cosas que he aprendido viendo tutoriales de YouTube y algunos vídeos de Platzi. No soy un profesional ni mucho menos). Lo voy actualizando cada día y no se si algún dia lo terminaré. 
 ## Directorio de Proyectos
 ###### Añado una nueva tarjeta cada vez que sea necesario
-![](https://lh3.googleusercontent.com/POJZ3oVacoVilCs8Hq4tRDoKo1nCv2mzqH-DwhMchP8FWn-3gRZP4kWnkCvINaYzs8ucKm7YoOpApHBgaPvCfChO-IweAiRy04SNf2tL1ls6-56WYpQdUGs1aptDQdcKLxFDoVoyRI-ZCxnVUgpaJyUSBDMCwwGDSENrbtU2Rvt5IcABelKVAswcB__zRFULfrdgvmNklKipQxZCMOk-9Ox70IMQu7tGr-fdSv9LttS-ekcEGsroIHTm3dfbB6Ajpzl6twj_lRCLT55CMs9NVBHlwH9WethiUjy0cYYxiDXyQOCvpCS-1e_tCo3GpTm7goFD6uTw24Fe4ZBR-5fXG1JPp-nR8ZnuumFQqIqOPu4OxOA4LNTUdX6Tew7wv0YAU5GVWPxMJQRC9WHkAXFgLrxfXGrkUXtpGap-TK3srJvaTKJRrkHgZYhFVHK15ZHcntAOux12jjVfFm1rr3D7gqYTaZjnroXTIAM42TGRzOSe5qJjac8L14MJvq48qP0xJZ6mg4GMt50ndasNHE3zZ19YrAeDXQ7G3l6usU_bfi2jn25dB7XwA139bZY6BTofFaliaAXxoxfKvDWE5yUea-wTU0XlBswK6ZV4c6sDdgbY3b7gKOMm4vYT5-gjple3Z3FBhRa7aiiUBO5-bnu2UP6IFdROfPeMKQSOl6W2VLz75qw5zX4Ow1bXggt7=w1113-h625-no?authuser=0)
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+
+</head>
+<body>
+    <img src="uno.png" alt="JavaScript - logo">
+</body>
+</html>
+
 # Sobre mí
 ###### Un poco de mi información
 ![](https://lh3.googleusercontent.com/OiVak6yUIEJblINFH_sbl-xUfBM8dqBqEaFDrGydxGRBcS9WyvtTyxkrXhV6BoLubgqoJRw0cRpJg1AV7Is2NgE8aiOBYXzchm4qbj1Un1iTaXOlShEAt3RVXvrzdTsdemD7fNM0xXyKoykjilbtD3GNA0OodVTXpwM4-40vkJabS6NZLEbrAKo9CLMBXg_4GLscM7h976Rq4CtiT3gCmmpk81jD2fQVkkvFsPjDea9dGKNXyu8Tbgk87XdH1XaWD5hnQjSssPm1fJpvCm0apJ_7LKp7RhQOPOcTWAGQlMZ76MEfpEqoqFoZa9pJo36NB65KOEIxkHO5QiD9f2KdK69La0_4pODAK7mJZND6_gvp9Q_IBqbseE4ZC1B_h1ekM2z49Pjf4-uTiJCuMHoChRBroqElLN2m4JE-ncVqcOWeHscPfgYTu6TSrOk3vkdazAX5UoaNslsz-se7kELsHXWJ_NsU_J91GLX5ACsYj81-tq_wzn0Ifw-hXpiHXyIql3VV6FOhCIdbGOiW27PCs4r-g3m0AqNPq7O9Jm44eOX7ivMvmHKgBUplZqBjmnaBO7vI5dEyUUjBlFk6GwWXP7ssQvfvflwaRTAB5wB_fZhnzlvEzPAdMK5Xf19Z8ajNmXBTahi3EHnCpn1T-7B_FHVPUUYiNs6eIm2v_Bo7NwPbTa1gTB3HejTbD_w2=w1113-h625-no?authuser=0)
@@ -17,14 +27,6 @@
 
 
 ------------
-<!DOCTYPE html>
-<html lang="es">
-<head>
 
-</head>
-<body>
-    <img src="JS.png" alt="JavaScript - logo">
-</body>
-</html>
 > Tengo más proyectos, pero no tienen gran cosa y no los considero nada importante.
 
