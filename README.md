@@ -13,6 +13,8 @@
 ###### Este es el proyecto de finalización de mi colegio con el que supuestamente me voy a graduar (lo pasé a web y aún no lo termino)
 ![](https://lh3.googleusercontent.com/43XR_heS7bJTHJ8ypMa3tBHlX-hQrSt4TV3s5gI-8TvjnBCHJIpFlxRLSPg5L5eA8mnUj-t_Z6raMbvUjCv3-18BtTZMGjfxkXPQwXW3BXfQz1nLJhQJrThJhhUnnoBLuZgnQ8WavEh-KCskfBea5kdLWP1ehuIhMUGMJoeuOVA7n9hvWYKj9DQVE9XwqZZZH7a41VWELZXlDU1kpwoqdypZgOnLT4F1ue_R9NhoqrkGVKwU50ojIyAB3mJQlu842mL_1uXKEz6EjclKgkLSPvBndoVelwRbaL2hBaX0YPmp5Ktx2dGwLOxI5AtpQFLpehOV6RaHDDbx4YqMXDRaIjP5nNZVEp_haEClmVlhYeL7o6xlo2rk2W5i96cFytak-GPPRgnsYw4Ih2sjPkZB-hVlHL_29vipxBRf3R3MEgjgwVWrzjZuCsgM8xwxhDIlT5uEzEUmqJw4S182sBbM_9IFXQIZIiK3AUKu7CZvRe-OmnwPKzE-mckSfxb3042T2I4CQ3OztB8pyZplnDOvi6jtqWheUkL2Du3CYqyS39VaJQ6xYuGsROsFQV8TlNyGKcF0i5BZ5VLH2PPAd9mAgLOXixqpP0_dw5zNCKf7U8fIHmfre4lSgIYPttQfxWqpCXoi67YtyR9plqOTFh1awsHgHVKW_xe0o1vegAUXAKtZBIK7Zl2ZvAsL9PI4=w1113-h625-no?authuser=0)
 
+<img src="HTML.png" alt="html5 - logo">
+
 ------------
 
 
