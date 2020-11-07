@@ -9,7 +9,7 @@
 
 </head>
 <body>
-    <img src="uno.png" alt="JavaScript - logo">
+    <img src="imagenes/uno.png" alt="JavaScript - logo">
 </body>
 </html>
 
@@ -22,7 +22,7 @@
 
 </head>
 <body>
-    <img src="dos.png" alt="JavaScript - logo">
+    <img src="imagenes/dos.png" alt="JavaScript - logo">
 </body>
 </html>
 
@@ -35,7 +35,7 @@
 
 </head>
 <body>
-    <img src="tres.png" alt="JavaScript - logo">
+    <img src="imagenes/tres.png" alt="JavaScript - logo">
 </body>
 </html>
 
@@ -48,7 +48,7 @@
 
 </head>
 <body>
-    <img src="cuatro.png" alt="JavaScript - logo">
+    <img src="imagenes/cuatro.png" alt="JavaScript - logo">
 </body>
 </html>
 
