@@ -16,45 +16,31 @@ h2 {
 .contact--general0__Titulo {
     /*Barra de título*/
     position: fixed;
-    z-index: 150;
-    text-align: center;
-    display: block;
-    width: 90%;
-    right: 0;
     background-color: #e3e7ec;
     border-bottom: rgb(167, 197, 206) 1.5px solid;
+    z-index: 3000;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    left: 135px;
+    width: 90%;
+    justify-items: center;
+    align-items: center;
+    height: 12%;
+    right: 0;
 }
-.contact--general0__Titulo {
-    position: fixed;
-    display: flex;
-    justify-content: center;
-}
-.a-1 {
-    width: 100px;
-    margin: 10px;
-    text-align: center;
-}
-
-.a-2 {
-    width: 100px;
-    text-align: center;
-}
-
 .contact--general0__Titulo>h1 {
     font-size: 25px;
     color: #ff7a59;
     font-family: 'Roboto', sans-serif;
     letter-spacing: 5px;
-    padding-bottom: 3px;
-    border-bottom: rgb(0, 160, 35) 4px dashed  ;
+    grid-column: 2/5;
+    text-decoration: underline dashed rgb(2, 206, 94);
 }
 
-.contact--general1__section {
-    position: fixed;
-}
 
+/*
 .Container--nav {
-    /*contenedor Nav de la izquierda*/
+    /*contenedor Nav de la izquierda
     position: fixed;
     display: flex;
     z-index: 1000;
@@ -63,11 +49,27 @@ h2 {
     flex-direction: column;
     width: 10%;
     height: 100%;
+}  */
+
+.Container--nav {
+    position: fixed;
+    z-index: 1000;
+    background-color: #e3e7ec;
+    border-right: rgb(167, 197, 206) 1.5px solid;
+    width: 10%;
+    height: 100%;
+    display: grid;
+    grid-template-columns: 150px;
+    grid-template-rows: 50px 50px 1fr;
+    justify-items: center;
+    justify-content: space-around;
 }
 
-.Container--nav>a { 
-    margin-right: auto;
-    margin-left: auto;
+.a-1 {
+    width: 70%;
+    height: 35px;
+    margin-top: 10px;
+    text-align: center;
     border:#ff7a59 3px solid;
     background-color: #ff7a59;
     color: rgb(255, 255, 255);
@@ -76,28 +78,43 @@ h2 {
     text-decoration: none;
     font-family: sans-serif;
     font-weight: 100;
-
 }
 
-.contenedir-del-logo {
-    display: flex;
-    width: 100%;
-    margin-top: auto;
-    background-color: #e3e7ec;
-    border-top: rgb(167, 197, 206) 1.5px solid;
-    justify-content: space-around;
+.a-2 {
+    width: 70%;
+    height: 35px;
+    margin-top: 10px;
+    text-align: center;
+    border:#ff7a59 3px solid;
+    background-color: #ff7a59;
+    color: rgb(255, 255, 255);
+    padding: 5px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-weight: 100;
 }
-.logoaxel {
-    padding: 5px 5px;
-    width: 100px;
-    height: 100px;
-}
-.Container--nav>a:hover {
+
+.a-1:hover, .a-2:hover {
     /*Links de el nav de la izq*/
     background-color: #ffbcac;
     border:#ffbcac 3px solid;
     transition: .5s;
     color: #ffffff;
+}
+
+.logoaxelimg {
+    width: 100px;
+    height: 100px;
+    align-self: flex-end;
+}
+
+.logoaxela {
+    width: 100px;
+    height: 100px;
+
+    align-self: flex-end;
+    justify-self: center;
 }
 
 /*Container de la primera fila*/
