@@ -37,20 +37,6 @@ h2 {
     text-decoration: underline dashed rgb(2, 206, 94);
 }
 
-
-/*
-.Container--nav {
-    /*contenedor Nav de la izquierda
-    position: fixed;
-    display: flex;
-    z-index: 1000;
-    background-color: #e3e7ec;
-    border-right: rgb(167, 197, 206) 1.5px solid;
-    flex-direction: column;
-    width: 10%;
-    height: 100%;
-}  */
-
 .Container--nav {
     position: fixed;
     z-index: 1000;
@@ -163,14 +149,12 @@ h2 {
     left: 30px;
     font-family: 'Josefin Sans', sans-serif;
     color: rgb(0, 0, 0);
-    transition: all .2s;
+    transition: color .2s;
 }
 
 .Container--general1__div1>a:hover {
-    border-radius: 10px;
-    background-color: rgb(248, 0, 0);
-    border: rgb(255, 0, 0) solid 2px;
-    color: rgb(255, 255, 255);
+    text-decoration: underline;
+    color: rgb(23, 161, 81);
 }
 
 /*Container 1 segundo proyecto*/
@@ -224,10 +208,8 @@ h2 {
 }
 
 .Container--general1__div2>a:hover {
-    border-radius: 10px;
-    background-color: rgb(248, 0, 0);
-    border: rgb(255, 0, 0) solid 2px;
-    color: rgb(255, 255, 255);
+    text-decoration: underline;
+    color: rgb(23, 161, 81);
 }
 
 /*Container 1 tercer proyecto*/
@@ -281,10 +263,8 @@ h2 {
 }
 
 .Container--general1__div3>a:hover {
-    border-radius: 10px;
-    background-color: rgb(248, 0, 0);
-    border: rgb(255, 0, 0) solid 2px;
-    color: rgb(255, 255, 255);
+    text-decoration: underline;
+    color: rgb(23, 161, 81);
 }
 
 /*Container de la segunda fila*/
@@ -338,10 +318,8 @@ h2 {
 }
 
 .Container--general2__div1>a:hover {
-    border-radius: 10px;
-    background-color: rgb(248, 0, 0);
-    border: rgb(255, 0, 0) solid 2px;
-    color: rgb(255, 255, 255);
+    text-decoration: underline;
+    color: rgb(23, 161, 81);
 }
 
 /*Container 2 segundo proyecto*/
@@ -394,10 +372,8 @@ h2 {
 }
 
 .Container--general2__div2>a:hover {
-    border-radius: 10px;
-    background-color: rgb(248, 0, 0);
-    border: rgb(255, 0, 0) solid 2px;
-    color: rgb(255, 255, 255);
+    text-decoration: underline;
+    color: rgb(23, 161, 81);
 }
 
 /*Container 2 tercer proyecto*/
@@ -450,10 +426,8 @@ h2 {
 }
 
 .Container--general2__div3>a:hover {
-    border-radius: 10px;
-    background-color: rgb(248, 0, 0);
-    border: rgb(255, 0, 0) solid 2px;
-    color: rgb(255, 255, 255);
+    text-decoration: underline;
+    color: rgb(23, 161, 81);
 }
 /*Container de la tercera fila*/
 /*Container 3 primer proyecto*/
@@ -507,10 +481,8 @@ h2 {
 }
 
 .Container--general3__div1>a:hover {
-    border-radius: 10px;
-    background-color: rgb(248, 0, 0);
-    border: rgb(255, 0, 0) solid 2px;
-    color: rgb(255, 255, 255);
+    text-decoration: underline;
+    color: rgb(23, 161, 81);
 }
 
 /*Container 2 segundo proyecto*/
@@ -563,8 +535,6 @@ h2 {
 }
 
 .Container--general3__div2>a:hover {
-    border-radius: 10px;
-    background-color: rgb(248, 0, 0);
-    border: rgb(255, 0, 0) solid 2px;
-    color: rgb(255, 255, 255);
+    text-decoration: underline;
+    color: rgb(23, 161, 81);
 }

@@ -152,6 +152,7 @@ h3 {
     margin-right: 50px;
     text-align: justify;
     font-size: 20px;
+    user-select: none;
 }
 
 /*Container pricipal 3 otro título*/
