@@ -655,7 +655,9 @@ h2 {
         background-color: #ededed;
         overflow: hidden;
         top: 540px;
-        left: 17.5px;
+        margin: auto;
+        left: 0;
+        right: 0;
         border-radius: 20px;
         border: groove 3px #dedede;
     }
@@ -700,7 +702,9 @@ h2 {
         background-color: #ededed;
         overflow: hidden;
         top: 980px;
-        left: 17.5px;
+        margin: auto;
+        left: 0;
+        right: 0;
         border-radius: 20px;
         border: groove 3px #dedede;
     }
@@ -745,7 +749,9 @@ h2 {
         background-color: #ededed;
         overflow: hidden;
         top: 1420px;
-        left: 17.5px;
+        margin: auto;
+        left: 0;
+        right: 0;
         border-radius: 20px;
         border: groove 3px #dedede;
     }
@@ -791,7 +797,9 @@ h2 {
         background-color: #ededed;
         overflow: hidden;
         top: 1860px;
-        left: 17.5px;
+        margin: auto;
+        left: 0;
+        right: 0;
         border-radius: 20px;
         border: groove 3px #dedede;
     }
@@ -837,7 +845,9 @@ h2 {
         background-color: #ededed;
         overflow: hidden;
         top: 2300px;
-        left: 17.5px;
+        margin: auto;
+        left: 0;
+        right: 0;
         border-radius: 20px;
         border: groove 3px #dedede;
     }
@@ -883,7 +893,9 @@ h2 {
         background-color: #ededed;
         overflow: hidden;
         top: 2740px;
-        left: 17.5px;
+        margin: auto;
+        left: 0;
+        right: 0;
         border-radius: 20px;
         border: groove 3px #dedede;
     }
@@ -929,7 +941,9 @@ h2 {
         background-color: #ededed;
         overflow: hidden;
         top: 3180px;
-        left: 17.5px;
+        margin: auto;
+        left: 0;
+        right: 0;
         border-radius: 20px;
         border: groove 3px #dedede;
         margin-bottom: 10px;
