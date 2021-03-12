@@ -8,39 +8,11 @@ body{
     background-color: #f4f4f4;
 }
 /* head */
-
-.head-container{
-    display: grid;
-    position: absolute;
-    top: 0;
-    grid-template-columns: 75px 1fr 75px 75px;
-    grid-template-rows: 80px;
-    width: 100%;
-    z-index: 1000;
-    position: absolute;
-    justify-items: center;
-    align-items: center;
-}
-
 h1{
+    font-size: 30px;
     margin: 0;
-    align-self: start;
-    margin-top: 25px; 
-    font-family: 'Roboto Slab', serif;
-    letter-spacing: 5px;
-    grid-column: 2/3;
+    font-family: 'Poppins', sans-serif;
 }
-
-.logo-fb, .logo-tw{
-    height: 45px;
-}
-.logo-fb{
-    grid-column: 3/4;
-}
-.logo-tw{
-    grid-column: 4/5;
-}
-
 /* header */
 .container-fondo{
     display: grid;
@@ -53,18 +25,21 @@ h1{
 
 .header-fondo{
     width: 100%;
-    opacity: .1;
 }
 /* navvvvv */
 .menu{
-    background-color: #e9183b;
     height: 75px;
     width: 100%;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    border-bottom: 1px solid #fff;
-    box-shadow: 5px 0 10px rgba(0, 0, 0, .6);
+    position: absolute;
+    z-index: 1000;
+    background-color: rgba(0, 0, 0, .1);
+    border-bottom: 1px solid rgba(0, 0, 0, .1);
+    -webkit-box-shadow: 0px 14px 104px -4px rgba(0,0,0,0.33);
+    -moz-box-shadow: 0px 14px 104px -4px rgba(0,0,0,0.33);
+    box-shadow: 0px 14px 104px -4px rgba(0,0,0,0.33);
 }
 .logo{
     color: #fff;
@@ -198,9 +173,13 @@ h2{
     text-decoration: underline;
 }
 
-/* card 1 */
-.card-1 {
-    /* grid-column: 2/3; */
+/* card 1-8 */
+.card-1, .card-2, .card-3, .card-4,
+.card-5, .card-6, .card-7, .card-8{
+    margin-bottom: 50px;
+    -webkit-box-shadow: 46px 48px 45px -38px rgba(0,0,0,0.33);
+    -moz-box-shadow: 46px 48px 45px -38px rgba(0,0,0,0.33);
+    box-shadow: 46px 48px 45px -38px rgba(0,0,0,0.33);
     position: relative;
     width: 300px;
     height: 390px;
@@ -208,83 +187,13 @@ h2{
     overflow: hidden;
     border-radius: 36px;
 }
-
-/* card 2 */
-.card-2 {
-    /* grid-column: 3/4; */
-    position: relative;
-    width: 300px;
-    height: 390px;
-    background-color: #865DB0;
-    overflow: hidden;
-    border-radius: 36px;
-}
-/* card 3 */
-.card-3 {
-    /* grid-column: 4/5; */
-    position: relative;
-    width: 300px;
-    height: 390px;
-    background-color: #865DB0;
-    overflow: hidden;
-    border-radius: 36px;
-}
-/* card 4 */
-.card-4 {
-    /* grid-column: 5/6; */
-    position: relative;
-    width: 300px;
-    height: 390px;
-    background-color: #865DB0;
-    overflow: hidden;
-    border-radius: 36px;
-}
-/* card 5 */
-.card-5 {
-    position: relative;
-    width: 300px;
-    height: 390px;
-    background-color: #865DB0;
-    overflow: hidden;
-    border-radius: 36px;
-}
-/* card 6 */
-.card-6 {
-    position: relative;
-    width: 300px;
-    height: 390px;
-    background-color: #865DB0;
-    overflow: hidden;
-    border-radius: 36px;
-}
-/* card 7 */
-.card-7 {
-    position: relative;
-    width: 300px;
-    height: 390px;
-    background-color: #865DB0;
-    overflow: hidden;
-    border-radius: 36px;
-}
-/* card 8 */
-.card-8 {
-    position: relative;
-    width: 300px;
-    height: 390px;
-    background-color: #865DB0;
-    overflow: hidden;
-    border-radius: 36px;
-}
-
-* {
-	box-sizing: border-box;
-}
+/* carusel */
 
 .contenedor {
     position: relative;
 	max-width: 1100px;
 	width: 80%;
-    top: 290px;
+    top: 350px;
 	margin: auto;
     padding-bottom: 30px;
 }
@@ -381,4 +290,10 @@ h2{
     grid-column: 1/2;
     height: 22px;
     justify-self: center;
+}
+
+.logo-fb, .logo-tw{
+    height: 12px;
+    justify-self: center;
+    margin-left: 10px;
 }
