@@ -148,7 +148,7 @@ ul.show{
 /* footerrrrrrr */
 .footer-contenedor{
     display: grid;
-    grid-template-columns: 50px 1fr;
+    grid-template-columns: 50px 1fr 1fr;
     grid-template-rows: 25px;
     background-color: #d8d2d2;
     position: absolute;
@@ -158,9 +158,11 @@ ul.show{
     align-items: center;
 }
 .footer-contenedor>p{
-    grid-column: 2/3;
     font-size: 10px;
     color: #3d3b3b;
+}
+.p-f{
+    grid-column: 3/4;
 }
 .img-footer{
     grid-column: 1/2;
@@ -190,23 +192,31 @@ ul.show{
     }
     /* footer */
     .footer-contenedor{
-        grid-template-rows: 50px 25px;
+        grid-template-rows: 0 0 0;
+        grid-template-columns: 0 0 0;
+        grid-template-columns: 50px 1fr 50px;
+        grid-template-rows: 25px 25px;
         justify-items: start;
         align-items: center;
     }
     .footer-contenedor>p{
         font-size: 15px;
     }
+    .p-derechos{
+        grid-row: 1/2;
+        grid-column: 2/3;
+        font-size: 10px !important;
+    }
     .img-footer{
-        grid-column: 1/2;
-        height: 30px;
-        justify-self: center;
+        display: none;
     }
     .p-f{
         height: 15px;
         justify-self: center;
         margin-left: 10px;
         justify-items: center;
+        grid-row: 2/3;
+        grid-column: 2/3;
     }
     div.footer-contenedor{
         text-align: center;
