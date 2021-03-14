@@ -85,12 +85,6 @@ ul.show{
         font-size: 16px;
     }
 }
-<<<<<<< HEAD
-
-/*Responsive----- 395px Responsive----- 395px Responsive----- 395px*/
-/*Responsive----- 395px Responsive----- 395px Responsive----- 395px*/
-/*Responsive----- 395px Responsive----- 395px Responsive----- 395px*/
-=======
 @media screen and (max-width: 858px){
     .menu{
         height: 65px;
@@ -179,7 +173,6 @@ ul.show{
     justify-self: center;
     margin-left: 10px;
 }
->>>>>>> footer
 
 @media only screen and (max-width: 393px) {
 	h1.contact--general0__h1{
