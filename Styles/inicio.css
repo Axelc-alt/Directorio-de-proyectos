@@ -4,9 +4,6 @@
     padding: 0;
     box-sizing: border-box;
 }
-body{
-    background-color: #f4f4f4;
-}
 /* head */
 h1{
     font-size: 30px;
@@ -98,9 +95,8 @@ ul.show{
     .menu_items{
         position: fixed;
         width: 100%;
-        height: calc(100% - 65px);
         background-color: #414141;
-        top: -100vh;
+        top: -1000vh;
         text-align: center;
         transition: all .4s;
         flex-direction: column;
@@ -134,142 +130,22 @@ ul.show{
         height: calc(100% - 65px);
     }
 }
-/* generales de cards */
-.wave{
-    position: absolute;
-    z-index: 20;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-}
-h2{
-    text-align: center;
-    position: relative;
-    top: 15px;
-    color: #fff;
-    font-size: 20px;
-}
-.img{
-    position: absolute;
-    z-index: 30;
-    width: 210px;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    margin: auto;
-}
-.c-a{
-    position: absolute;
-    z-index: 70;
+.c-a{  
+    color: #202020;
+    font-family: 'Montserrat', sans-serif;
     text-decoration: none;
-    color: rgb(209, 204, 204);
-    bottom: 10px;
-    left: 35px;
-    font-family: 'Raleway', sans-serif;
+    background-color: rgba(0, 0, 0, .1);
+    border-radius: 10px;
+    font-size: 12px;
+    opacity: .7;
 }
 .c-a:hover{
-    color: #fff;
-    text-decoration: underline;
+    color: rgb(0, 0, 0);
+    opacity: 1;
+    background-color: rgba(0, 0, 0, .5);
 }
 
-/* card 1-8 */
-.card-1, .card-2, .card-3, .card-4,
-.card-5, .card-6, .card-7, .card-8{
-    margin-bottom: 50px;
-    -webkit-box-shadow: 46px 48px 45px -38px rgba(0,0,0,0.33);
-    -moz-box-shadow: 46px 48px 45px -38px rgba(0,0,0,0.33);
-    box-shadow: 46px 48px 45px -38px rgba(0,0,0,0.33);
-    position: relative;
-    width: 300px;
-    height: 390px;
-    background-color: #865DB0;
-    overflow: hidden;
-    border-radius: 36px;
-}
-/* carusel */
-
-.contenedor {
-    position: relative;
-	max-width: 1100px;
-	width: 80%;
-    top: 350px;
-	margin: auto;
-    padding-bottom: 30px;
-}
-
-/* --- --- CAROUSEL --- --- */
-.carousel__contenedor {
-	position: relative;
-}
-
-.carousel__anterior,
-.carousel__siguiente {
-	position: absolute;
-	display: block;
-	width: 30px;
-	height: 30px;
-	border: none;
-	top: calc(50% - 35px);
-	cursor: pointer;
-	line-height: 30px;
-	text-align: center;
-	background: none;
-	color: rgb(0, 0, 0);
-	opacity: 50%;
-}
-
-.carousel__anterior:hover,
-.carousel__siguiente:hover {
-	opacity: 100%;
-}
-
-.carousel__anterior {
-	left: -40px;
-}
-
-.carousel__siguiente {
-	right: 10px;
-}
-
-.carousel__lista {
-	overflow: hidden;
-    width: 1100px;
-}
-
-.carousel__elemento {
-	text-align: center;
-}
-
-.carousel__indicadores .glider-dot {
-	display: block;
-	width: 30px;
-	height: 5px;
-	background: rgb(73, 72, 72);
-	opacity: .2;
-}
-
-.carousel__indicadores{
-    margin-top: 10px;
-}
-
-.carousel__indicadores .glider-dot:hover {
-	opacity: .5;
-}
-
-.carousel__indicadores .glider-dot.active {
-	opacity: 1;
-}
-
-@media screen and (max-width: 800px) {
-	.contenido-principal {
-		flex-direction: column;
-	}
-
-	.contenido-principal > * {
-		width: 100%;
-	}
-}
+/* footerrrrrrr */
 .footer-contenedor{
     display: grid;
     grid-template-columns: 50px 1fr;
