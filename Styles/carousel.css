@@ -98,9 +98,9 @@ body {
 		margin-bottom: 0;
     }
 	.carousel__siguiente{
-		left: 0;
+		right: -20px;
 	}
 	.carousel__anterior{
-		left: 0;
+		left: -20px;
 	}
 }
